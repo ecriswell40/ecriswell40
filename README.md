@@ -1,5 +1,8 @@
 ## Eric Criswell 
 
+<p> From Arlington Heights, Illinois </p>
+<p> Email: ericcriswell20@yahoo.com </p>
+
 <!--
 **ecriswell40/ecriswell40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
