@@ -3,7 +3,7 @@
 ### <p> Tippie College of Business, University of Iowa </p>
 <p> From Arlington Heights, Illinois </p>
 <p> Email: ericcriswell20@yahoo.com </p>
-<p> [LinkedIn](https://www.linkedin.com/in/eric-criswell-953258174/) </p>
+[LinkedIn](https://www.linkedin.com/in/eric-criswell-953258174/) 
 
 <!--
 **ecriswell40/ecriswell40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
