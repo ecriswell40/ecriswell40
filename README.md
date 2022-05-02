@@ -1,5 +1,5 @@
 # Eric Criswell 
-![Image] (/assets/images/FullSizeRender 2.JPG)
+/assets/images/FullSizeRender 2.JPG
 ### <p> Tippie College of Business, University of Iowa </p>
 <p> From: Arlington Heights, Illinois </p>
 <p> Email: ericcriswell20@yahoo.com </p>
