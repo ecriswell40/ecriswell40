@@ -1,5 +1,5 @@
 # Eric Criswell 
-<img src="https://github.com/ecriswell40/ecriswell40/blob/main/FullSizeRender%202.JPG" width="150" height="125">
+<img src="https://github.com/ecriswell40/ecriswell40/blob/main/FullSizeRender%202.JPG" width="150" height="150">
 ### <p> Tippie College of Business, University of Iowa </p>
 <p> From: Arlington Heights, Illinois </p>
 <p> Email: ericcriswell20@yahoo.com </p>
