@@ -1,4 +1,6 @@
-### Hi there 👋
+## Eric Criswell 
+
+<hr>
 
 <!--
 **ecriswell40/ecriswell40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
